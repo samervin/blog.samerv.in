@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: What being a soccer goalie and being a hardware architect have in common
 ---
 First, before you go any further, I implore you to read [this short, three-page essay](https://www.usenix.org/system/files/1309_14-17_mickens.pdf) about being a hardware architect (and working with computers in general). It's written by James Mickens, a Microsoft man, and is entirely ridiculous and hilarious on a base level, so it will be enjoyable to read.

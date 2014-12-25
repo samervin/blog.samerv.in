@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Standard Risk vs. Italian Risk (or Why Math is Difficult)
 ---
 

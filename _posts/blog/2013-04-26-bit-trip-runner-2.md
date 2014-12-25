@@ -1,12 +1,13 @@
 ---
 layout: post
+category: blog
 title: Bit.Trip Runner 2 is one of the best games I've ever played.
 ---
 *I'm Charles Martinet, and now it's time for Bit.Trip Presents... Runner 2: Future Legend of Rhythm Alien!*
 
 ![]({{site.url}}/images/runner-2-logo.png)
 
-The title screen says this every time you start the game. For the uninformed, Charles Martinet is a prolific voice actor, know for the voice of Mario and various other Nintendo characters (though I first recognized him as the voice of [Orvus]({{site.url}}/images/orvus.jpg) from Ratchet and Clank Future, which is where I've heard his name before). The intro isn't Mario's high pitched squeal, though, it's a deep, suave, clean, introduction, with a bit of a wink in his eye. And it sets up the tone of the game perfectly.
+The title screen says this every time you start the game. For the uninformed, Charles Martinet is a prolific voice actor, know for the voice of Mario and various other Nintendo characters (though I first recognized him as the voice of [Orvus](http://ratchet.wikia.com/wiki/Orvus) from Ratchet and Clank Future, which is where I've heard his name before). The intro isn't Mario's high pitched squeal, though, it's a deep, suave, clean, introduction, with a bit of a wink in his eye. And it sets up the tone of the game perfectly.
 
 Runner 2 is a sequel, clearly: it's the sequel to Bit.Trip Runner, the most successful entry in the Bit.Trip series of games, which prior to Runner 2 were 8-bit inspired rhythm games. The sequel has made the jump from an always-on retro feel to three fully-fledged dimensions, which far from ruining the charm of the old games has only enhanced the quirky fun.
 
@@ -30,7 +31,7 @@ Seriously. One of the last levels is almost impossible, and if you can't time ab
 
 But Runner 2 feels less biased against me at all steps. There are checkpoints halfway through every single level now, something that greatly speeds up the game and gives more incentive to try to explore a bit or simply collect all the gold without chasing utter perfection. Even on the hardest difficulty, the game feels less about *timing* and more about the *correct* button press itself. Jumping in particular feels more fluid and being close enough visually suffices, which is more dramatic and more satisfying.
 
-When I would play Guitar Hero at my friend's house years and years ago, I wasn't very good at playing on Hard, because that's the first difficulty where you have to move your fingers to the orange button, and it was a difficult adjustment. But playing the harder songs on Medium was a lot of fun, because the myriad notes were challenging to hit in succession. Even when I got better, I had a lot more fun playing moderately fun songs with varied guitar parts rather than just blind quick-strumming parts (so, I greatly preferred [Ramblin' Man](https://www.youtube.com/watch?v=qZuo4Wt2vzY#t=70) instead of the obvious example [Through the Fire and Flames](https://www.youtube.com/watch?v=PRDj1_5ekxg#t=40)).
+When I would play Guitar Hero at my friend's house years and years ago, I wasn't very good at playing on Hard, because that's the first difficulty where you have to move your fingers to the orange button, and it was a difficult adjustment. But playing the harder songs on Medium was a lot of fun, because the myriad notes were challenging to hit in succession. Even when I got better, I had a lot more fun playing moderately fun songs with varied guitar parts rather than just blind quick-strumming parts (so, I greatly preferred [Ramblin' Man](https://www.youtube.com/watch?v=qZuo4Wt2vzY#t=70) and [Love Spreads](https://www.youtube.com/watch?v=wEf4qPa3Sdw#t=46) instead of the obvious example [Through the Fire and Flames](https://www.youtube.com/watch?v=PRDj1_5ekxg#t=40)).
 
 That's what Runner 2 feels like. Medium+ mode. More buttons and requiring quicker reactions, maybe, but a challenging and rewarding experience.
 
