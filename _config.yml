@@ -19,7 +19,7 @@ github: ''
 gaaccount: ''
 
 permalink: /:categories/:title
-paginate: 1
+paginate: 5
 paginate_path: "/:num/"
 
 highlighter: pygments
