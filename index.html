@@ -1,27 +1,37 @@
 ---
 layout: default
-title: Sam Ervin's Blog
 ---
 
-<div class="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.categories['blog'] %}
-    <li><span>{{ post.date | date: "%B %-d, %Y" }}</span> <span class="separator">~</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-
-  <h1>Media Posts</h1>
-  <ul class="posts">
-    {% for post in site.categories['media'] %}
-    <li><span>{{ post.date | date: "%B %-d, %Y" }}</span> <span class="separator">~</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-
-  <h1>Links</h1>
-  <ul class="posts">
-    {% for post in site.categories['link'] %}
-    <li><span>{{ post.date | date: "%B %-d, %Y" }}</span> <span class="separator">~</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+{% for post in paginator.posts %}
+<div class="article">
+  <div class="well">
+    <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%b %-d, %Y" }} - {{ post.title }}</a></h1>
+    <div class="content">
+      {{ post.content }}
+    </div>
+  </div>
 </div>
+{% endfor %}
+
+
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+  <a class="btn btn-default" rel="prev" href="{{ paginator.previous_page_path | replace: 'index.html', '/' | prepend: site.baseurl | replace: '//', '/' }}" class="previous">&laquo; Newer</a>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+  {% if page == paginator.page %}
+  <b>{{ page }}</b>
+  {% elsif page == 1 %}
+  <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+  {% else %}
+  <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+  {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+  <a class="btn btn-default" rel="next" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="next">Older &raquo;</a>
+  {% endif %}
+</div>
+{% endif %}
