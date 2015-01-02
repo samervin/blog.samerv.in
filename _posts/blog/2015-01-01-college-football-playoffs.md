@@ -4,6 +4,8 @@ category: blog
 title: The very first College Football Playoffs
 ---
 
+![]({{site.url}}/images/cfb-playoff.png)
+
 On this, the first of January, the first College Football Playoffs happened. Two big bowl games, along with three other slightly less big bowl games, happened. I have strange opinions on a couple, I guess! Here's where I'm at. I'll go in order, with CFB rankings noted.
 
 **18-Wisconsin defeats 19-Auburn, 34-31.**

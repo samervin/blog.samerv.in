@@ -17,7 +17,12 @@ body {
 
 .sidebar h1 {
     color: #ee4444;
-    font-size: 1.3em;
+    font-size: 1.35em;
+}
+
+.sidebar h2 {
+  color: #ee4444;
+  font-size: 1.15em;
 }
 
 .sidebar a {
@@ -39,7 +44,7 @@ body {
 
 .well h1 {
     color: #ee4444;
-    font-size: 1.3em;
+    font-size: 1.35em;
 }
 
 .author {

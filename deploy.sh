@@ -4,6 +4,6 @@ echo "Building site..."
 jekyll build > /dev/null
 echo "Zipping site..."
 cd _site
-zip -r ../site_$today.zip * -x deploy.sh LICENSE README.md > /dev/null
+zip -r ../site_$today.zip * -x deploy.sh LICENSE README.md *.zip > /dev/null
 cd ..
 echo "Done."
