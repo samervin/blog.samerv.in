@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Behind the desk at the computer science resource center
-date: 2013-12-13 19:44
-author: mutatedman
-comments: true
-categories: [algorithms, Blog, computer science, School, student resource center]
+categories: blog
 ---
 A brief tale of computers, algorithms, logic, love, hate, and widescreen monitors.
 

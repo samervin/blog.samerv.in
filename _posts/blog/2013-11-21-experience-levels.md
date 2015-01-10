@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Brief thoughts on experience levels
-date: 2013-11-21 15:44
-author: mutatedman
-comments: true
-categories: [Blog, excel, experience levels]
+categories: blog
 ---
 Something we mentioned today in software engineering is the use of documentation for the three levels of users for your product.
 
@@ -14,4 +11,4 @@ Casual: someone who has used your product before and has some level of proficien
 
 Novice: someone who has never or barely touched your product. A novice user of Excel, the sort of person who does not even know that you can create charts out of data (or has never done so before), would need to actively search for the "make a graph" button, which should be intuitive and easy.
 
-People talk about being "pros" with Excel over most other Office products and it's because Excel is probably the most powerful and the least intuitive, but (<em>But!</em>) its learning curve is clear and satisfying. The more I work with spreadsheets, the more I appreciate shortcuts.
+People talk about being "pros" with Excel over most other Office products and it's because Excel is probably the most powerful and the least intuitive, but (*But!*) its learning curve is clear and satisfying. The more I work with spreadsheets, the more I appreciate shortcuts.

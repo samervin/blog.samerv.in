@@ -10,7 +10,7 @@ categories: [Link, Old]
 
 <a href="http://pastebin.com/jry1GApv">I Have No Mouth And I Must Scream</a>. A TF2 tale that chilled me a bit when I first read it. I think there was a sequel at some point.
 
-<a href="http://spacecraft.ssl.umd.edu/akins_laws.html">Akin's Laws of Spacecraft Design*</a>. A series of laws that relate to spacecraft-building, engineering, and life in general.
+<a href="http://spacecraft.ssl.umd.edu/akins_laws.html">Akin's Laws of Spacecraft Design<em></a>. A series of laws that relate to spacecraft-building, engineering, and life in general.
 
 <a href="http://www.randsinrepose.com/archives/2011/01/17/managing_nerds.html">Managing Nerds</a>. A good read and a bit of an introspective.
 
