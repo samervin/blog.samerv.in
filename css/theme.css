@@ -3,6 +3,16 @@ body {
     padding-bottom: 60px;
 }
 
+blockquote {
+  font-size: 1em;
+  color: #555555;
+}
+
+hr {
+  height: 1px;
+  background-color: #000000;
+}
+
 .copyright {
     color: #ffffff;
 }
