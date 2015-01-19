@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Dissecting Pocket Battles
-date: 2014-09-03 00:23
-author: mutatedman
-comments: true
-categories: [algorithms, Blog, dice rolls, Idea, pocket battles, probability]
+categories: blog
 ---
-<a href="https://samuelthomaservin.files.wordpress.com/2014/09/pocket-battles.jpg"><img class="alignleft size-medium wp-image-466" src="http://samuelthomaservin.files.wordpress.com/2014/09/pocket-battles.jpg?w=300" alt="pocket-battles" width="300" height="300" /></a>So Pocket Battles is this nifty little board game that's contained within a small box. It's a two-player strategy game: you set up your armies individually, deploy them on the battlefield, and pit them against each other by moving them around and rolling dice. It's fairly quick and pretty fun, and there are 4 boxes (with 2 armies apiece) which makes for a lot of mix-and-match battles.
 
-Something that I really like doing with board games, and dice games in particular, is trying to crack them. What are the odds of xyz happening, what's the average performance? I've done this previously with <a href="https://samuelthomaservin.wordpress.com/2013/07/12/bored-games-and-my-family/">Six Cubes</a> and to a point with <a href="https://samuelthomaservin.wordpress.com/2013/08/13/standard-risk-vs-italian-risk-or-why-math-is-difficult/">Risk</a> (and I've done a little not-talked-about work with Parcheesi and Yahtzee, which I'll have to talk about someday). Pocket Battles is a game full of variables and odds, and it was a challenge to come up with something I could work into something I could use.
+<img src="{{ site.url }}/images/pocket-battles.jpg" align="left" style="margin:0px 5px">
+
+So Pocket Battles is this nifty little board game that's contained within a small box. It's a two-player strategy game: you set up your armies individually, deploy them on the battlefield, and pit them against each other by moving them around and rolling dice. It's fairly quick and pretty fun, and there are 4 boxes (with 2 armies apiece) which makes for a lot of mix-and-match battles.
+
+Something that I really like doing with board games, and dice games in particular, is trying to crack them. What are the odds of xyz happening, what's the average performance? I've done this previously with [Six Cubes]({{ site.url }}/blog/bored-games/) and to a point with [Risk]({{ site.url }}/blog/standard-vs-italian-risk/) (and I've done a little not-talked-about work with Parcheesi and Yahtzee, which I'll have to talk about someday). Pocket Battles is a game full of variables and odds, and it was a challenge to come up with something I could work into something I could use.
 
 In the future I'd like to put the algorithm I used on GitHub, because GitHub is a neat place and I hope that someone else on the internet can use my code, as I stole and rearranged it from the internet. For now I just want to briefly talk about what the algorithm can do, and a couple questions I had.
 
