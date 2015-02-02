@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Thomas Was Alone review
-date: 2013-06-09 13:46
-author: mutatedman
-comments: true
-categories: [Review, Thomas Was Alone, Video Games]
+categories: blog
 ---
-<a href="http://samuelthomaservin.files.wordpress.com/2013/06/thomas.png"><img class="alignright size-full wp-image-181" alt="thomas" src="http://samuelthomaservin.files.wordpress.com/2013/06/thomas.png" width="300" height="300" /></a>
+
+![]({{ site.url }}/images/thomas.png)
 
 Thomas Was Alone is a very simple game. You begin the game as Thomas, a nondescript red rectangle, with the goal of reaching the end of the level.
 
@@ -16,4 +14,4 @@ The game itself plays like any other minimalist platformer, with solid mechanics
 
 The soundtrack works like the rest of the game, lending tension to tense moments and soothing to calm moments. It flows well with the other elements of the game.
 
-Ultimately a relatively easy and short ride. I have four hours logged and all the achievements, most of which are simply finding the secret squares in various levels, and the others which will be found simply through playing the game. But it's not just about being an epic journey, it's about having fun, and I certainly did.
+Ultimately a relatively easy and short ride. I have four hours logged and I got all the achievements, most of which are simply finding the secret squares in various levels, and the others which will be found simply through playing the game. But it's not just about being an epic journey, it's about having fun, and I certainly did. Worth a shot.

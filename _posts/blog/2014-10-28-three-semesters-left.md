@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Three semesters left.
-date: 2014-10-28 00:46
-author: mutatedman
-comments: true
-categories: [Blog, School]
+categories: blog
 ---
 Had a talk with my adviser today about what I have left to graduate. With a year and a half to go, I'm looking at 30 credit hours, minimum, left.
 

@@ -1,18 +1,18 @@
 ---
 layout: post
 title: Nebraska 27, Northwestern 24
-date: 2013-11-03 01:20
-author: mutatedman
-comments: true
-categories: [Blog, football, huskers, Image, jordan westerkamp, School, unl]
+categories: blog
 ---
-<a href="http://samuelthomaservin.files.wordpress.com/2013/11/westerkamp.jpg"><img class="aligncenter size-full wp-image-321" alt="westerkamp" src="http://samuelthomaservin.files.wordpress.com/2013/11/westerkamp.jpg" width="628" height="418" /></a>I'm not going to rehash everything that's been said about this game. It wasn't the most consistent game in the world and certainly not our best game this year, even, but it had one of the most exciting long-shot finishes I've seen. Nope, I want to talk about being in the crowd.
+
+![]({{ site.url }}/images/westerkamp.jpg)
+
+I'm not going to rehash everything that's been said about this game. It wasn't the most consistent game in the world and certainly not our best game this year, even, but it had one of the most exciting long-shot finishes I've seen. Nope, I want to talk about being in the crowd.
 
 With 3:16 on the clock in the fourth quarter and the game still tied at 21, the Huskers had the ball on their own 18 yard line. After about five plays, Tommy Armstrong throws a strange pass, directly intercepted by Northwestern, who brings it back to the 7 yard line.
 
-At this point, people start streaming out of Memorial Stadium. A media timeout is called and the mass exodus begins. I'm seated right above one of the exits, with the rest of the student section immediately to the right of it.  We heckle some of the people walking out, particularly the younger ones, with cries of "Hey, hey! Where you going?" and a couple, quieter, sarcastic "Fair-weather fans!" thrown in for good measure.
+At this point, people start streaming out of Memorial Stadium. A media timeout is called and the mass exodus begins. I'm seated right above one of the exits, with the rest of the student section immediately to the right of it.  We heckle some of the people walking out, particularly the students, with cries of "Hey, hey! Where you going?" and a couple, quieter, sarcastic "Fair-weather fans!" thrown in for good measure.
 
-One of the other students yells at a guy, "The game's not over yet!"
+One of the other students yells at an older guy, "The game's not over yet!"
 
 The guy, covered head-to-toe in Husker gear, barely slows down to point at the kid and look him in the eye. "This game is over."
 
