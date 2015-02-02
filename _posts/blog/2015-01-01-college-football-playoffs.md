@@ -14,7 +14,7 @@ I've been saying essentially since this matchup was announced that I was interes
 
 And as it turned out, they didn't handle them quite enough, and Wisconsin managed to take it to overtime on a field goal, winning with a field goal in overtime (over the missed FG from Auburn). This is a big deal, and I'm happy for Wisconsin.
 
-**8-Michigan State defeats 5-Baylor, 42-42.**
+**8-Michigan State defeats 5-Baylor, 42-41.**
 
 Michigan State pulled off a huge fourth quarter 20-point comeback to beat the Bears. This is also, in general, good for the Big Ten and thus I am, in general, in favor of this.
 
