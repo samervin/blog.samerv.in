@@ -15,6 +15,4 @@ This was interesting. I don't know if we've ever welcomed anyone quite so gracio
 
 Then the U disappeared, and I'll let this picture show what popped up in its place:
 
-<a href="https://samuelthomaservin.files.wordpress.com/2014/09/welcome-to-your-worst-nightmare.jpg"><img class="alignleft size-full wp-image-476" src="http://samuelthomaservin.files.wordpress.com/2014/09/welcome-to-your-worst-nightmare.jpg" alt="Welcome to your worst nightmare" width="639" height="852" /></a>
-
-&nbsp;
+![]({{ site.url }}/images/nightmare.jpg)
