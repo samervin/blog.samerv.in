@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Miami 31, Nebraska 41
-date: 2014-09-20 23:38
-author: mutatedman
-comments: true
-categories: [cornhuskers, Image, miami, nebraska, School]
+categories: blog
 ---
 First, I want to express how happy I am that Nebraska beat Miami. I would have rather lost to McNeese (on principle) than lose to Miami.
 
