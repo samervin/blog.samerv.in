@@ -1,18 +1,18 @@
 ---
 layout: post
 title: Sam reads the World-Herald
-date: 2014-03-13 14:49
-author: mutatedman
-comments: true
-categories: [Blog, creighton, nebrasketball, philly cheesesteak, pope, Review, world-herald]
+categories: blog
 ---
+
 Today's news is interesting so I felt like writing a bit about it.
 
-Lots of talk about the Pope, who's now been the Pope for a year, and what this means for Catholics and the general religious everywhere. A generous portion of my family is Catholic, and though I can't say I believe in anything myself I think the fact that Francis is being more open and conscientiously opening discussion on things that have been set in stone for so long is a step in the right direction.
+Lots of talk about the Pope, who's now been the Pope for a year, and what this means for Catholics and the general religious everywhere. A generous portion of my family is Catholic, and though I can't say I believe in much Catholicism myself, I think the fact that Francis is being more open and conscientiously opening discussion on things that have been set in stone for so long is a step in the right direction.
 
-<a href="http://samuelthomaservin.files.wordpress.com/2014/03/larry-and-doug.jpg"><img class="alignleft  wp-image-398" alt="larry and doug" src="http://samuelthomaservin.files.wordpress.com/2014/03/larry-and-doug.jpg" width="513" height="337" /></a>Doug McDermott's Sports Illustrated cover, which is a remake of an old Larry Bird Sports Illustrated cover, is really well done: even the title of the article is the same. It's interesting that they showed Doug's feet (they didn't show Larry's) and had him cover the magazine name, which makes him look an awful lot taller. It's also interesting how much uniform shapes have changed (I like the old look better, but I think that's just me).
+<img src="{{ site.url }}/images/larry-and-doug.jpg" align="left" style="margin:0px 5px">
 
-The article about Pastor Mike, who attended both Creighton's Senior Night (in which McDermott exploded and hit the 3000 career points mark) as well as Nebraska's defeat of Wisconsin (all but clinching an NCAA spot for the first time in 16 years) was excellent. Full of biblical jokes and things, but chilling, in a way: really, that was a heck of a weekend for basketball, and for the state in general. These things don't happen every year.
+Doug McDermott's Sports Illustrated cover, which is a remake of an old Larry Bird Sports Illustrated cover, is really well done: even the title of the article is the same. It's interesting that they showed Doug's feet (they didn't show Larry's) and had him cover the magazine name, which makes him look an awful lot taller. It's also interesting how much uniform shapes have changed (I like the old look better, but I think that's just me).
+
+The article about Pastor Mike, who attended both Creighton's Senior Night (in which McDermott exploded and hit the 3000 career points mark) as well as Nebrasketball's defeat of Wisconsin (all but clinching an NCAA spot for the first time in 16 years) was excellent. Full of biblical jokes and things, but chilling, in a way: really, that was a heck of a weekend for basketball, and for the state in general. These things don't happen every year.
 
 The GOP is as per usual staunchly defending their views on abortion, and are apparently planning to make social issues in general a more major part of the platform come the 2016 race. I think it's a bunch of hooey, and I think the GOP will keep losing support and interest (and power) if they keep on like this.
 
@@ -28,6 +28,6 @@ Erin Grace still has a weird smile.
 
 People think there aren't enough women protagonists in movies. They might be right. People think that male-led movies make more money. They're generally wrong, it's dependent on budget alone apparently. So why the disconnect? All I can offer is a shrug and an "Iunno" and a "that's how it's been and change is hard."
 
-Europe wants to stop United States from using names like "Parmesan" and "feta" and "Gorgonzola" to describe their cheeses. Parmesan cheese is supposed to come from Parma, Italy. Feta is from Greece (just because it always <em>has</em> been). Other cheeses, like Muenster and Asiago and Romano, as well as other terms like Greek yogurt, bologna, and prosciutto are under fire. This sounds pretty asinine. If you serve a Philly cheesesteak in Germany, you deserve to call it a Philly <em>because that's what it is</em>.
+Europe wants to stop United States from using names like "Parmesan" and "feta" and "Gorgonzola" to describe their cheeses. Parmesan cheese is supposed to come from Parma, Italy. Feta is from Greece (just because it always *has* been). Other cheeses, like Muenster and Asiago and Romano, as well as other terms like Greek yogurt, bologna, and prosciutto are under fire. This sounds pretty asinine. If you serve a Philly cheesesteak in Germany, you deserve to call it a Philly *because that's what it is*.
 
 That's all for today!
