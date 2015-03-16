@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="well">
+  <h1><a href="{{ site.baseurl }}archive.html">All Posts</a>
+    - <a href="{{ site.baseurl }}blog.html">Blog Posts</a>
+    - Links
+    - <a href="{{ site.baseurl }}media.html">Media Posts</a></h1>
+  {%for post in site.categories.link %}
+  {% unless post.next %}
+  <ul>
+  {% endunless %}
+  <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}<div style="float:right">{{ post.date | date: "%b %d, %Y" }}</a></li>
+  {% endfor %}
+  </ul>
+</div>

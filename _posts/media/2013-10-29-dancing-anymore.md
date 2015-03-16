@@ -6,7 +6,7 @@ categories: media
 
 I'm not even sure how I was linked to this, but this is a music video unlike any other—summing up both the near-future possibilities of virtual reality and, well, the disgusting mind of a boy.
 
-This contains mostly-naked women (and some men too), and is certainly <strong>not safe for work</strong>. Enjoy at your own risk.
+This contains mostly-naked women (and some men too), and is certainly **not safe for work**. Enjoy at your own risk.
 
 [Vimeo link.](http://vimeo.com/64398631)
 
