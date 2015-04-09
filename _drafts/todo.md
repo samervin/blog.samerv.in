@@ -1,3 +1,2 @@
-Turn epilogues, addendums, other after-the-fact edits into >blockquotes.
-Enderverse review (Shadows in Flight sucked)
+Turn epilogues, addenda, other after-the-fact edits into >blockquotes.
 leaps in movies and books
