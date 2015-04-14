@@ -10,30 +10,30 @@ As more and more Hearthstone cards are released, getting into HS gets harder and
 
 So I want to talk about some of the differences between these two games, and ultimately decide which game is friendlier to a brand-new player.
 
-Let's start with the evolution of **Team Fortress 2.**
+I'll start with this: **what items are considered "necessary" or are strongly important in TF2?**
 
-TF2 was released in late 2007, as part of the Orange Box, or you could buy it separately for twenty bucks. There were 9 classes, every class had 3 or so weapons, and there were only 6 official maps. The learning curve was essentially trying to decipher the mechanics, and memorize the maps.
+I'm going to try and keep this as brief as possible. Obviously it is to your advantage to have all the weapons at your disposal, but some offer alternative playstyles while some significantly increase a class's general performance.
 
-For a brand-new player, TF2 had some difficult-to-explain mechanics, but great care was taken to distinguish and add character to the different classes, and their different weapons. Some of this is noted in the developer commentary that ships with the game. Essentially, every class's silhouette and animations were chosen for easy, reflexive recognition, even without seeing direct details like the logo on their shoulder.
+For the Scout: the *Pretty Boy's Pocket Pistol*, *Bonk!*, the *Boston Basher*, and the *Atomizer* either offer an alternative ability that isn't duplicated anywhere else (*Bonk!*) or are simply more reliable than their counterparts. Scout does reasonably well with his default loadout, though.
 
-Maybe the hardest part was understanding the mechanics of the Spy class, and indeed the Spy class was probably tweaked the most in the coming months and years. A character that can disguise as the opponent and turn invisible is going to confuse new players no matter what you do, and this surely put some people off of the game. But this was the major hiccup.
+All the Soldier's banners open up alternative abilities, but the stock shotgun is still the best for 1 vs. 1 combat. A Soldier really only needs a *Disciplinary Action* or perhaps *Escape Plan* to be on par with other Soldiers, who won't use stock melee in 99% of cases.
 
-In April 2008 the Gold Rush update hit servers, which introduced three new weapons for the Medic class. This was, overall, a positive change. Medics had more ways to influence the game, there were more strategies available to teams, and general Medic play got a bump, which was good for the game.
+Pyro is tricky: there are a lot more combo plays with the *Degreaser*, but stock flamethrower is better at lower skill levels. The *Flare Gun*, perhaps the most balanced sidegrade in the game, enables more interesting Pyro play but I wouldn't call it necessary. What *is* necessary is a better melee weapon: previously *Axtinguisher* was the go-to, but *Powerjack* (or perhaps a *Homewrecker*) are also useful. The Pyro should *never* use his stock melee, basically.
 
-Four months later, two more class updates had hit, giving the Pyro and Heavy new weapons. Which is fine. This is fair. Pyros gained more burst potential, and Heavies gained some more usable secondary weapons.
+Vanilla Demoman is the most powerful class in the game, full stop. You might want to mess around with the Demoknight unlocks, or an alternative grenade launcher, but this is one class you can play with no loadout changes for your whole TF2 career.
 
-Gradually, every class got an update, and a handful of other weapons and mechanics were added over the next several years. Every class had at least one alternate weapon in every slot that was relevant, every class could be built in slightly different way, and the game slowly exploded.
+Heavy needs a lot of help. His shotgun and fists are outclasses by nearly every unlock. *Sandvich* is almost always taken in the secondary slot, and the *Gloves of Running Urgently* are almost always taken in the melee slot. Acquiring these is crucial to playing Heavy well.
 
-If you had been playing the game for a while, or read a significant amount about the game online, you could handle everything. Knowing to equip Heavy's Sandvich. Understanding how to optimize your Ambassador shots. How the minicrits of Jarate interacted with buildings and other minicrits and critical hits. How item sets (gasp!) worked, and what their advantages were.
+The Engineer is fairly solid, though you'll have trouble playing anything but slow defense with the stock loadout. The *Wrangler*, in the secondary slot, is great for defense (and offense, if you're good), the *Jag* is slightly better than the wrench at all times, and the *Gunslinger* enables the offensive twitchy Engineer, which is an important niche to fill.
 
-In June 2011, TF2 went free-to-play. Free-to-play accounts (those who had never spent money on the game) were limited to 50 weapons instead of a large amount of weapons and items, but could comfortably play the game for quite a while before this limitation ever hit, and the buy-in was only five dollars.
+Keeping the stock *Medi Gun* on Medic is fine, and certainly the most reliable. The alternative medi guns, especially the *Kritzkrieg* and *Quick-Fix*, can be better on defense or offense respectively, though they're less reliable and certainly not necessary. What's crucial is a melee unlock for the Medic: most take *Ubersaw*, some take *Vita-Saw* or *Amputator*. All are upgrades to stock.
 
-This update came with, most notably, another medigun for the Medic, as well as a huge amount of weapons for most other classes. At this point, there were around 45 official maps in a variety of game modes, at least two unlockable weapons for most weapon slots, and a slew of purely cosmetic items and effects.
+Snipers usually take *Jarate* as it enables team-play as well as a strong chance of surviving 1 vs. 1 combat, when paired with the *Bushwacka*. These two items grant strong abilities to the Sniper and are extremely important, though certainly not required.
 
-I think you understand where I'm going with this. Let me fast-forward to today. It's April 2015. There are 76 official maps across 15 game modes (to be fair, four game modes have only 1 map). There are somewhere on the order of 200 weapons (though some share stats).
+Spies are tough. Most Spies don't run stock revolver, though which revolver they take depends heavily on playstyle. *Your Eternal Reward* opens up new options for the Spy, but is difficult to use. *Spy-cicle* is often taken, but may leave a Spy stranded against other enemies. The *Dead Ringer* is probably the most important alternative playstyle, and isn't required for Spy play but adds a powerful tool to his arsenal.
 
-A small Training Mode exists, and explains the Engineer and Spy classes enough to get started, which is good. But TF2 is really difficult to fully comprehend.
+So, bottom line, there are 12 to 14 weapon slots, out of 27 or so, that ought to be filled with a non-stock weapon for better gameplay. That's around half. Playing Scout, Soldier, or Demoman (or perhaps Medic) is relatively straightforward, and you don't gain large advantages by getting new weapons. The other classes need help from unlocks to be effective (Heavy, Pyro), or to greatly increase effectiveness (Engineer, Sniper, Spy).
 
-Killcams tell you what weapon killed you, by default. It is reacting to these weapon choices, and expecting certain weapons ahead of time, that is impossible to communicate, and makes a full picture something of a pipe dream.
+But you can still compete at lower skill levels. Being a bad Engineer or Medic or Demoman still means that you're building Sentries, healing your teammates, or spamming grenades, and that's good.
 
-I'm not hating on TF2 here. Killcams work wonders for communicating information, particularly against long-range kills. There exists a healthy, if too-small, amount of information inside the game itself around weapons and maps. And the online community around TF2 is enormous and finding guides and help is pretty easy.
+So let's move back out to
