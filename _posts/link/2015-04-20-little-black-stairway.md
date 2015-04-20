@@ -1,3 +1,9 @@
+---
+layout: post
+title: Little Black Submarines sounds familiar
+category: link
+---
+
 Go listen to [Little Black Submarines](https://www.youtube.com/watch?v=QJEx2tOYhHk), by the Black Keys.
 
 Okay. good. Did you like it? I hope so. Were you reminded of any artist, or song by that artist, in particular?
