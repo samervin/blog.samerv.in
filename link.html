@@ -11,7 +11,7 @@ layout: default
   {% unless post.next %}
   <ul>
   {% endunless %}
-  <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}<div style="float:right">{{ post.date | date: "%b %d, %Y" }}</a></li>
+  <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}<div style="float:right">{{ post.date | date: "%b %d, %Y" }}</a></li>
   {% endfor %}
   </ul>
 </div>
