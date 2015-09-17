@@ -30,7 +30,7 @@ I tried watching this game. The online ESPN player went down shortly into the fi
 
 I did, and do still, want Oregon to win the national championship. I think this is okay. Scott Frost, former Nebraska QB, is doing a great job calling plays for their crazy quick offense. Oregon has been good for several years but the school doesn't have a national title. And everyone and their mother wanted FSU to lose, except of course direct FSU fans. So this game is positive for most.
 
-I like that FSU didn't just get beat. They got whalloped. Pick an intimidating verb and you're probably correct. That's how the game went down. I'm not saying FSU didn't deserve to make the playoff -- they did -- but they didn't deserve to be in the final game, and now hopefully can focus on the intangibles surrounding their program, and players, and players' actions, in the off-season.
+I like that FSU didn't just get beat. They got walloped. Pick an intimidating verb and you're probably correct. That's how the game went down. I'm not saying FSU didn't deserve to make the playoff -- they did -- but they didn't deserve to be in the final game, and now hopefully can focus on the intangibles surrounding their program, and players, and players' actions, in the off-season.
 
 **4-Ohio State defeats 1-Alabama, 42-35.**
 
